@@ -8,7 +8,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using Xamarin.Forms;
 
-namespace TaipeiBus.Views.Controls
+namespace MyProject.Views.Controls
 {
     public class AdvancedChartView : SKCanvasView
     {
